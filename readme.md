@@ -11,6 +11,6 @@ Here I upload my personal projects, data, codes, etc
 | Ashkan Jangodaz | http;//alum.sharif.edu/~ashkan.jangodaz |
 
 ## Contacts
-|Name| E-mail |
+|Name| E-mails |
 | -- | ------ |
-| Ashkan Jangodaz | ashkan.jangodaz@gmail.com |
+| Ashkan Jangodaz | ashkan.jangodaz@gmail.com | ajangoda@nyit.edu | 
