@@ -1,10 +1,5 @@
 # Ashkan Jangodaz
 
-## Personal Data
-
-Here I upload my personal projects, data, codes, etc
-
-
 ## Links
 |Name| Link |
 | -- | ---- |
