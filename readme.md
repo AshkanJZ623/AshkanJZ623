@@ -7,6 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ashkanjangodaz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AshkanJZ623)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/ashkanjangodaz)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashkan.jangodaz@gmail.com)](mailto:ashkan.jangodaz@gmail.com)
+
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
