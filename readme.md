@@ -3,7 +3,8 @@
 ## Links
 |Name| Link |
 | -- | ---- |
-| Ashkan Jangodaz | https://alum.sharif.edu/~ashkan.jangodaz |
+| Sharif Webpage | https://alum.sharif.edu/~ashkan.jangodaz |
+| Linkedin | https://www.linkedin.com/in/ashkanjangodaz/ |
 
 ## Contacts
 |Name| E-mails |
