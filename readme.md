@@ -47,6 +47,7 @@ I'm a graduate in Computer Science 🎓 from New York Tech and Sharif University
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
+<!--
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -133,7 +134,7 @@ I'm a graduate in Computer Science 🎓 from New York Tech and Sharif University
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
-
+-->
 #
 
 <div align="center">
