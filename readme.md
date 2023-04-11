@@ -1,7 +1,8 @@
 
 ## Hey 👋, I'm [Ashkan Jangodaz](https://alum.sharif.edu/~ashkan.jangodaz/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/ashkanjangodaz/](https://www.linkedin.com/in/ashkanjangodaz/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashkanjangodaz/)
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alum.sharif.edu/~ashkan.jangodaz/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AshkanJangodaz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ashkanjangodaz/)
