@@ -17,7 +17,7 @@
 
 ### Glad to see you here! 
 
-I'm a graduate in Cybersecurity and Computer Engineering 🎓 from New York Tech (M.Sc.) and Sharif University (B.Sc.) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently a Machine Learning engineer, and a college lecturer 🕸️ working on an Anti Bully Classifier which is NN based🤓.
+I'm a graduate in Cybersecurity and Computer Engineering 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently a Machine Learning engineer, and a college lecturer 🕸️ working on an Anti Bully Classifier which is NN based🤓.
 
 ### Talking about Personal Stuffs:
 
