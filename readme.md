@@ -22,7 +22,7 @@ I'm a graduate in Cybersecurity and Computer Engineering 🎓. I'm a passionate 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Python and BERT language model.
-- 👨🏻‍💻 &nbsp;  I’m currently teaching 19 students in Computer Networks.
+- 👨🏻‍💻 &nbsp;  I’m currently teaching 108 students in Computing Department.
 - 👾 &nbsp; Fun fact: Did you know that the password for the computer system controlling America's nuclear-tipped missiles was, for 20 years, "00000000"?
 <!-- - 📫 &nbsp; How to reach me: ashkan.jangodaz@gmail.com. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
